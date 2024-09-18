@@ -1,6 +1,7 @@
 from Data import *
 from Services.write import write
 from Tools.Whastapp import whastapp
+from Tools.mailTo import mail
 import os
 import re
 
@@ -43,3 +44,4 @@ def register():
   aux  = {"id": new_id, "name": name, "lastname": lastname, "email": email, "phone": phone}
   write(aux)
   whastapp(phone,f"Hello {name} {lastname}, you're welcome in our platform. Your ID: {new_id}") 
+  mail(email,f"Hello {name} {lastname}, you're welcome in our platform. Your ID: {new_id}","Welcome")

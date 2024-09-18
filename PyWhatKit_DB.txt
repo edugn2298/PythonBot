@@ -8,3 +8,23 @@ Time: 19:47
 Phone Number: +584146939720
 Message: Hello Rosa Narvaez, you're welcome in our platform. Your ID: 10
 --------------------
+Date: 17/9/2024
+Time: 22:41
+Phone Number: +584147002605
+Message: Hello Eduardo Garcia, you're welcome in our platform. Your ID: 11
+--------------------
+Date: 17/9/2024
+Time: 22:49
+Phone Number: +584147002605
+Message: Hello Eduardo Garcia, you're welcome in our platform. Your ID: 12
+--------------------
+Date: 17/9/2024
+Time: 23:3
+Phone Number: +584147002605
+Message: Hello Eduardo Garcia, you're welcome in our platform. Your ID: 13
+--------------------
+Date: 17/9/2024
+Time: 23:7
+Phone Number: +584147002605
+Message: Hello Eduardo Garcia, you're welcome in our platform. Your ID: 14
+--------------------

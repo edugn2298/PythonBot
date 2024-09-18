@@ -1,3 +1,8 @@
-id: 23, name: Rosa, lastname: Narvaez, email: rosann, phone: 04146939720
-id: 25, name: Alejandro, lastname: Moreno, email: edugn, phone: 04147002605
-
+id: 1, name: Eduardo, lastname: Garcia, email: edugn2298@gmail.com, phone: 04147002605
+id: 2, name: Rosa, lastname: Narvae, email: rosann@hotmail.com, phone: 04146939720
+id: 5, name: Eduardo, lastname: Garcia, email: edugn2298@gmail.com, phone: 1234567890
+id: 6, name: Rosa, lastname: Narvaez, email: rosann@hotmail.com, phone: +584146939720
+id: 7, name: Seth, lastname: Cohen, email: sethhh@gmail.com, phone: +584148795621
+id: 8, name: Eduardo, lastname: Garcia, email: edugn2298@gmail.com, phone: +584147002605
+id: 9, name: Eduardo, lastname: Garcia, email: edugn2298@gmail.com, phone: +584147002605
+id: 10, name: Rosa, lastname: Narvaez, email: rosann@gmail.com, phone: +584146939720

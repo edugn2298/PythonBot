@@ -23,3 +23,4 @@ if __name__=="__main__":
       show.show()
     elif swich == 5:
       start = False
+
